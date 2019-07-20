@@ -8,3 +8,13 @@ C:\Users\mike\source\repos\BouncingBall\BouncingBall\obj\Debug\BouncingBall.cspr
 C:\Users\mike\source\repos\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
 C:\Users\mike\source\repos\BouncingBall\BouncingBall\obj\Debug\BouncingBall.exe
 C:\Users\mike\source\repos\BouncingBall\BouncingBall\obj\Debug\BouncingBall.pdb
+C:\Users\mike\source\repos\BouncingBallProject\BouncingBall\bin\Debug\BouncingBall.exe.config
+C:\Users\mike\source\repos\BouncingBallProject\BouncingBall\bin\Debug\BouncingBall.exe
+C:\Users\mike\source\repos\BouncingBallProject\BouncingBall\bin\Debug\BouncingBall.pdb
+C:\Users\mike\source\repos\BouncingBallProject\BouncingBall\obj\Debug\BouncingBall.csprojAssemblyReference.cache
+C:\Users\mike\source\repos\BouncingBallProject\BouncingBall\obj\Debug\BouncingBall.Form1.resources
+C:\Users\mike\source\repos\BouncingBallProject\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+C:\Users\mike\source\repos\BouncingBallProject\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+C:\Users\mike\source\repos\BouncingBallProject\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+C:\Users\mike\source\repos\BouncingBallProject\BouncingBall\obj\Debug\BouncingBall.exe
+C:\Users\mike\source\repos\BouncingBallProject\BouncingBall\obj\Debug\BouncingBall.pdb
